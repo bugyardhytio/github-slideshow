@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Test files. First day on Github lab
 Use the left arrow to go back!
